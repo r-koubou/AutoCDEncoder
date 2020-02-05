@@ -1,0 +1,1 @@
+-s --cvbr 320 --quality 2 --threading --title "%t" --artist "%a" --album "%b" --date "%y" --genre "%g" --artwork "%p" --artwork-size 512 --track "%tn/%tt" -o "%2" "%1"
